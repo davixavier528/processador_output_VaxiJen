@@ -22,4 +22,4 @@ pasta
 * Abra a interface da linha de comando e rode o seguinte:
 * `./processing_VaxiJen.sh`
 * Depois, remova as linhas iniciais que contém os identificadores vazios. Dica:
-* `sed '1,60d' seq_antigenic.fasta` 
+* `sed '1,40d' seq_antigenic.fasta`
