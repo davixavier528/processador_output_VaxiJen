@@ -8,14 +8,18 @@ Quando falamos de vacinologia reversa, a predição de antigenicidade das sequê
 # Requisitos
 * Interface da linha de comando Unix-like
 * Organização de arquivo e diretórios da seguinte forma:
----
 
-* pasta
-    -proteoma.fasta # todas suas sequências proteicas em um único arquivo
-    -proteoma_particionado_1.fasta # proteoma particionado para submeter ao VaxiJen 
-    -proteoma_particionado_2.fasta # proteoma particionado para submeter ao VaxiJen
-    -proteoma_particionado_1.html # resultado VaxiJen do 'proteoma_particionado_1.fasta'
-    -proteoma_particionado_2.html # resultado VaxiJen do 'proteoma_particionado_2.fasta'
+pasta
+
+    proteoma.fasta # todas suas sequências proteicas em um único arquivo
+    
+    proteoma_particionado_1.fasta # proteoma particionado para submeter ao VaxiJen 
+    
+    proteoma_particionado_2.fasta # proteoma particionado para submeter ao VaxiJen
+    
+    proteoma_particionado_1.html # resultado VaxiJen do 'proteoma_particionado_1.fasta'
+    
+    proteoma_particionado_2.html # resultado VaxiJen do 'proteoma_particionado_2.fasta'
 
 # Utilização
 ## Linux & MacOs & Windows
