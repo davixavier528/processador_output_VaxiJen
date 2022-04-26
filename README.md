@@ -7,9 +7,7 @@ Quando falamos de vacinologia reversa, a predição de antigenicidade das sequê
 
 # Requisitos
 * Interface da linha de comando Unix-like
-* Organização de arquivo e diretórios da seguinte forma:
-
-pasta
+* Todos os seguites arquivos dentro de um diretório:
 
     proteoma.fasta # todas suas sequências proteicas em um único arquivo
     
